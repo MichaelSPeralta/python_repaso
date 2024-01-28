@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Martin Emiliano Tula",
+    "nick": "Tula",
+    "img": "src/assets/img/faces/news/MDE0MjA1LmpwZw.jpg"
+  },
+  {
+    "name": "Matias Fabian Carrion",
+    "nick": "Chueco",
+    "img": "src/assets/img/faces/news/MDE0NTMzLmpwZw.jpg"
+  },
+  {
+    "name": "Fabricio Farias",
+    "nick": "Fabri",
+    "img": "src/assets/img/faces/news/MDU4MTgxLmpwZw.jpg"
+  },
+  {
+    "name": "Javier Herrera",
+    "nick": "Javi",
+    "img": "src/assets/img/faces/news/NDA5MDkzLmpwZw.jpg"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "date": "18/01/23",
+    "scores": {
+      "games": 1,
+      "sets": 6
+    },
+    "teamA": {
+      "jugadorA": {
+        "name": "Javi",
+        "nick": "fn",
+        "img": "src/assets/img/faces/dqlbujoo.jpg"
+      },
+      "jugadorB": {
+        "name": "Mauri",
+        "nick": "fn",
+        "img": "src/assets/img/faces/ellmdtyc.jpg"
+      },
+      "winner": true,
+      "score": 6
+    },
+    "teamB": {
+      "jugadorA": {
+        "name": "Fabri",
+        "nick": "fn",
+        "img": "src/assets/img/faces/jkivinam.jpg"
+      },
+      "jugadorB": {
+        "name": "Flaco",
+        "nick": "fn",
+        "img": "src/assets/img/faces/nbndsmga.jpg"
+      },
+      "winner": false,
+      "score": 5
+    }
+  },
+  {
+    "date": "11/01/23",
+    "scores": {
+      "games": 1,
+      "sets": 6
+    },
+    "teamA": {
+      "jugadorA": {
+        "name": "Javi",
+        "nick": "fn",
+        "img": "src/assets/img/faces/dqlbujoo.jpg"
+      },
+      "jugadorB": {
+        "name": "Mauri",
+        "nick": "fn",
+        "img": "src/assets/img/faces/ragdvhvm.jpg"
+      },
+      "winner": true,
+      "score": 6
+    },
+    "teamB": {
+      "jugadorA": {
+        "name": "Fabri",
+        "nick": "fn",
+        "img": "src/assets/img/faces/tizcshnk.jpg"
+      },
+      "jugadorB": {
+        "name": "Flaco",
+        "nick": "fn",
+        "img": "src/assets/img/faces/xkjjoujd.jpg"
+      },
+      "winner": false,
+      "score": 5
+    }
+  }
+]
